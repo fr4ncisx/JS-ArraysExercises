@@ -1,4 +1,4 @@
-# This is the excercise from Alura (Spanish)
+# This is the excercise Challenge Nº4 from Alura LATAM 
 
 ### Crea una lista vacía llamada "listaGenerica".
 
