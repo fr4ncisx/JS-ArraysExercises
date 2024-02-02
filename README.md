@@ -17,6 +17,13 @@ let genericList = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
 
 ```JavaScript
 let genericList = ['JavaScript', 'C', 'C++', 'Kotlin', 'Python'];
+
+function setArray(list){
+    list.push('Java', 'Ruby' , 'GoLang');
+    console.log(list);
+}
+
+setArray(genericList);
 ```
 ----------
 ### Crea una función que muestre en la consola todos los elementos de la lista "lenguagesDeProgramacion.
